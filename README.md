@@ -55,47 +55,15 @@
             <li><strong>Dry</strong> - kyç</li>
             <li><strong>Dajak</strong> - rrah</li>
             <li><strong>Fanellë</strong> - triko</li>
-            <li><strong>Ferkace</strong> - shkop i gjatë</li>
-            <li><strong>Ftere</strong> - tigan</li>
             <li><strong>Farmaci</strong> - barnatore</li>
             <li><strong>Goxh</strong> - kotec</li>
             <li><strong>Hajmali</strong> - send që sjell fat</li>
-            <li><strong>Hejbe</strong> - dy çanta të qepura bashkë</li>
-            <li><strong>Hasell</strong> - tërshërë, elb</li>
-            <li><strong>Haber</strong> - lajm</li>
-            <li><strong>Halic</strong> - copëz guri</li>
-            <li><strong>Ime</strong> - tani</li>
-            <li><strong>Kallamoq</strong> - misër</li>
-            <li><strong>Kërrutë</strong> - dele, dhi</li>
-            <li><strong>Këndez</strong> - gjel</li>
-            <li><strong>Kalem</strong> - laps</li>
-            <li><strong>Kësulë</strong> - kapelë</li>
-            <li><strong>Kallkan</strong> - akull</li>
-            <li><strong>Mexhilis</strong> - popull</li>
-            <li><strong>Mehallë</strong> - lagje</li>
-            <li><strong>Mahmur</strong> - i përgjumur</li>
-            <li><strong>Math</strong> - vesh</li>
-            <li><strong>Mulla</strong> - barku</li>
-            <li><strong>Mez</strong> - i vogli i pelës</li>
-            <li><strong>Ngastrë</strong> - copë tokë</li>
-            <li><strong>Nënkresë</strong> - shami koke</li>
-            <li><strong>Një</strong> - shiko</li>
             <li><strong>Ode</strong> - dhomë</li>
             <li><strong>Opinga</strong> - këpucë</li>
-            <li><strong>Pehriz</strong> - dietë</li>
             <li><strong>Pagurë</strong> - bidon</li>
-            <li><strong>Parmend</strong> - vegël pune</li>
             <li><strong>Qenef</strong> - banjo</li>
-            <li><strong>Rradakë</strong> - kafka</li>
-            <li><strong>Rreng</strong> - hile</li>
-            <li><strong>Sallon</strong> - dhomë pritjeje</li>
-            <li><strong>Sahan</strong> - pjatë</li>
             <li><strong>Sahat</strong> - orë</li>
-            <li><strong>Stela</strong> - rroba gjumi</li>
-            <li><strong>Tlyn</strong> - gjalp</li>
-            <li><strong>Torb</strong> - çantë</li>
             <li><strong>Xhevap</strong> - përgjigje</li>
-            <li><strong>Zeher</strong> - helm</li>
         </ul>
         
         <button onclick="ndryshoTekstin()">Mëso më shumë</button>
@@ -109,3 +77,7 @@
     </script>
 </body>
 </html>
+
+            
+            
+       
